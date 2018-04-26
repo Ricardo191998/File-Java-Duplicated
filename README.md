@@ -1,0 +1,2 @@
+# duplicar
+Copia dos archivos 
